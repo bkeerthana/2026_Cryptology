@@ -1,0 +1,311 @@
+HTML Fast Track Assignments
+
+Assignment 1: Create a Basic Webpage
+
+Create an HTML page that displays:
+
+Your name
+Program name
+College name
+A short introduction about yourself
+Your career interest
+
+Use the following tags:
+
+<html>
+<head>
+<title>
+<body>
+<h1>
+<h2>
+<p>
+Expected output
+My Profile
+
+Name: Ananya
+Program: M.E. Cybersecurity
+College: Manipal School of Information Sciences
+
+I am interested in web application security and ethical hacking.
+Assignment 2: Text Formatting
+
+Create a webpage titled “Introduction to Cybersecurity”.
+
+Include:
+
+One main heading
+Two subheadings
+Three paragraphs
+Important words in bold
+Technical terms in italics
+One highlighted sentence
+One horizontal line
+
+Use:
+
+<h1>
+<h2>
+<p>
+<b>
+<strong>
+<i>
+<em>
+<mark>
+<hr>
+<br>
+Assignment 3: Lists
+
+Create a webpage that displays:
+
+Cybersecurity Domains
+Network Security
+Web Application Security
+Cloud Security
+Digital Forensics
+Cryptography
+Steps to Create a Strong Password
+Use at least 12 characters.
+Include uppercase and lowercase letters.
+Include numbers.
+Include special characters.
+Avoid personal information.
+
+Use:
+
+<ul>
+<ol>
+<li>
+Assignment 4: Hyperlinks
+
+Create a webpage containing links to:
+
+OWASP
+NIST
+CISA
+Your college website
+Your GitHub profile
+
+Requirements:
+
+Open at least two links in a new tab.
+Add descriptive link text.
+Do not display only the raw URL.
+
+Use:
+
+<a href="..." target="_blank">
+
+Example:
+
+<a href="https://owasp.org" target="_blank">
+    Visit the OWASP Website
+</a>
+Assignment 5: Add Images
+
+Create a webpage titled “Cybersecurity Awareness”.
+
+Include:
+
+One cybersecurity-related image
+Suitable alternative text
+Width and height attributes
+A short description below the image
+
+Use:
+
+<img src="image.jpg" alt="Cybersecurity awareness" width="400">
+
+Students should understand why the alt attribute is important.
+
+Assignment 6: Create a Table
+
+Create a table showing common cyberattacks.
+
+Attack	Description	Prevention
+Phishing	Fake messages used to steal information	Verify sender
+Malware	Malicious software	Use antivirus
+Password Attack	Attempts to guess passwords	Use strong passwords
+DDoS	Overloads a service	Use traffic filtering
+
+Use:
+
+<table>
+<tr>
+<th>
+<td>
+
+Add:
+
+border="1"
+
+for the initial exercise.
+
+Assignment 7: Student Registration Form
+
+Create a simple student registration form containing:
+
+Full Name
+Registration Number
+Email
+Password
+Phone Number
+Date of Birth
+Gender
+Course selection
+Areas of interest
+Address
+Submit button
+Reset button
+
+Use:
+
+<form>
+<label>
+<input>
+<select>
+<option>
+<textarea>
+<button>
+
+Include different input types:
+
+text
+email
+password
+number
+date
+radio
+checkbox
+submit
+reset
+Assignment 8: Login Form
+
+Create a simple login page with:
+
+Username
+Password
+Remember Me checkbox
+Login button
+Forgot Password link
+
+Example structure:
+
+<form>
+    <label for="username">Username</label>
+    <input type="text" id="username" required>
+
+    <label for="password">Password</label>
+    <input type="password" id="password" required>
+
+    <input type="checkbox" id="remember">
+    <label for="remember">Remember Me</label>
+
+    <button type="submit">Login</button>
+</form>
+
+Students should identify why passwords use:
+
+type="password"
+Assignment 9: Semantic HTML Page
+
+Create a webpage titled “Cybersecurity Training Program” using semantic elements.
+
+Use:
+
+<header>
+<nav>
+<main>
+<section>
+<article>
+<aside>
+<footer>
+
+The webpage should contain:
+
+Program title
+Navigation links
+About section
+Course modules
+Trainer information
+Contact details
+Footer
+
+This assignment introduces students to meaningful webpage structure.
+
+Mini Project: Fast Track Program Webpage
+
+Students should combine the previous exercises and create one complete webpage for the Fast Track Program.
+
+Required sections
+Header
+Program title
+College name
+Program dates
+Navigation
+Home
+Schedule
+Topics
+Registration
+Contact
+About the Program
+
+A short description of the five-day Fast Track Program.
+
+Program Schedule
+
+Create a table such as:
+
+Day	Topic	Session
+Day 1	C Programming	Theory and Lab
+Day 2	C Programming	Theory and Lab
+Day 3	C Programming	Theory and Lab
+Day 4	Basic Web Technologies	Theory and Lab
+Day 5	Client–Server Architecture	Theory and Lab
+Topics Covered
+
+Use an unordered list:
+
+C programming fundamentals
+Conditional and looping statements
+Functions and arrays
+HTML fundamentals
+Forms and tables
+Client–server architecture
+HTTP request and response
+Registration Form
+
+Include:
+
+Name
+Email
+Program
+Preferred topic
+Submit button
+Footer
+
+Include:
+
+Department name
+Contact email
+Copyright notice
+
+
+References: 
+https://www.w3schools.com/html/
+https://www.youtube.com/@programmingwithmosh
+
+Online Editor
+https://codepen.io/
+
+Books
+HTML and CSS: Design and Build Websites
+Author: Jon Duckett
+
+The Web Application Hacker's Handbook
+Authors: Dafydd Stuttard and Marcus Pinto
+
+Web Security for Developers
+Author: Malcolm McDonald
+
+The Tangled Web: A Guide to Securing Modern Web Applications
+Author: Michal Zalewski
