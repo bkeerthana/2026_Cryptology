@@ -1,0 +1,19 @@
+Lab 1: Teamwork 
+Date: 06.08.2026
+Aim 
+Security Fundamentals: Identifying Threats, Vulnerabilities, and Attacks
+
+1 – WannaCry Ransomware (2017)
+2 – Equifax Data Breach (2017)
+3 – Mirai Botnet (2016)
+4 – SolarWinds Supply Chain Attack (2020)
+5 – Colonial Pipeline (2021)
+6 – Twitter Bitcoin Scam (2020)
+7 – Yahoo Data Breach (2013–2014)
+8 – Uber Data Breach (2022)
+9 – Bangladesh Bank Heist (2016)
+10 – MoveIt Transfer Vulnerability (2023)
+
+
+                     
+             "It always seems impossible until it's done." — Nelson Mandela
