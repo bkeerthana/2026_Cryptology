@@ -67,7 +67,15 @@ Day -2:
       - Created group for Lab-1 Team Activity 
 
 Clarification: 
-          Backdoor is a vulnerability 
+          Backdoor is a vulnerability or Threat 
+
+Vulnerability: A weakness or hole in your defense.
+Threat: The actual means or actor exploiting that weakness.
+A backdoor is the specific entry point that leverages a system's flaws.
+
+When a backdoor is created unintentionally—such as through developer coding errors, forgotten testing access, or hard-coded credentials—it acts as a vulnerability.
+A backdoor is an active method or tool used to bypass authentication and gain unauthorized access to a system. When malicious actors plant a backdoor (like a Trojan or rootkit), 
+it is a direct security threat used to steal data or control the system.
 
 Examples: 
 Threat
