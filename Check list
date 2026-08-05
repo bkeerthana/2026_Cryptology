@@ -69,5 +69,40 @@ Day -2:
 Clarification: 
           Backdoor is a vulnerability 
 
+Examples: 
+Threat
+Who or what was the threat?
+
+Examples:
+
+Cybercriminal
+Nation-state
+Insider
+Malware
+Botnet
+
+Vulnerability
+What weakness was exploited?
+
+Examples:
+
+Unpatched software
+Weak password
+Misconfiguration
+Zero-day vulnerability
+Human error
+
+Attack
+What attack technique was used?
+
+Examples:
+
+Ransomware
+Phishing
+DDoS
+Credential theft
+Supply-chain attack
+SQL Injection
+
 
 
