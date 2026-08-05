@@ -28,3 +28,43 @@ Day -1:
 
    - Cryptology = Cryptography + Cryptanalysis 
 
+
+Day -2: 
+     Recap 
+     - Security 
+     - Security controls 
+             - Prevention 
+                    Examples:         
+                   - Cryptography *
+                   - Authentication 
+                   - Access Control
+                   - Firewall 
+                   - MFA 
+
+                    Explore: Prevention mechanism
+                    
+
+             - Detection 
+                      Explore: Prevention mechanism
+
+             - Counter measure/ Mitigation/ Corrective/Recovery 
+                       Explore: Prevention mechanism
+
+     - Understanding the terms 
+            - Asset 
+            - Threat 
+            - Vulnerability 
+            - Attack
+
+     - Security Model 
+           - Security Goals/ Pillars of security / CIA Triad
+                  - Confidentality 
+                  - Integrity 
+                  - Availability 
+
+           - Intro to Attacks on CIA 
+
+      - Created group for Lab-1 Team Activity 
+
+
+
