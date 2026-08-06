@@ -1,0 +1,25 @@
+Attack Overview
+    - name of the attack 
+    - year 
+    - about the attack 
+
+Asset/Victim Identification 
+     - primary assets 
+     - Victim 
+ 
+Threat Identification 
+     - threat 
+
+Vulnerability Identification 
+     - Vulnerability 
+     - how they were exploited 
+
+Attack Identification 
+     - Attack 
+
+CIA Triad Analysis 
+
+Suggest at least 5 security controls 
+
+Lessons learnt from the incident 
+
