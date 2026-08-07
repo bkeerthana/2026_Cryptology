@@ -66,6 +66,34 @@ Day -2:
 
       - Created group for Lab-1 Team Activity 
 
+Day -3: 
+      Recap 
+      Security Models Vs Security Framwork 
+      Security Models 
+             - CIA 
+             - PPT 
+             - Mc Cumber Cube Model 
+                    - CIA 
+                    - PPT 
+                          People 
+                          Policy 
+                          Technology 
+                    - Data States 
+                           - Transit 
+                           - Process 
+                           - Rest 
+             - AAA
+               Authentication 
+               Authorization 
+               Accoutability 
+
+             - Onion Model 
+                      - Defense in Depth 
+Explore: 
+          Peacock Model 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Clarification: 
           Backdoor is a vulnerability or Threat 
 
