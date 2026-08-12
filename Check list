@@ -124,6 +124,22 @@ Day-4:
 
 Clarification: The code Book -- Simon singh
 
+Day-5: 
+          Recap 
+          More examples on CIA 
+
+          characteristics of cryptosystem 
+                   - No. of keys 
+                        - Symmetric, Asymmetric 
+                   - Way of processing 
+                         - Stream, Block 
+                   - Way of transforming 
+                         - Substitution, Transposition, product
+         Examples 
+                Ceaser cipher 
+                Rot 13 
+                shift cipher 
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
