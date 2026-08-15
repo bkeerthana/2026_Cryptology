@@ -128,7 +128,7 @@ Day-5:
           Recap 
           More examples on CIA 
 
-          characteristics of cryptosystem 
+          Characteristics of cryptosystem 
                    - No. of keys 
                         - Symmetric, Asymmetric 
                    - Way of processing 
@@ -141,7 +141,29 @@ Day-5:
                 shift cipher 
 
 
+Day-6: 
+      Recap
 
+      Cryptographic primitives vs Cryptographic protocols 
+           
+      Math representation 
+            - Ceaser cipher 
+            - Rot 13 
+            - Shift cipher 
+
+      Intro to Monoalphabetic cipher 
+
+      Activities 
+           - Encrypt, Decrypt using Monoalphabetic ciphers Ceaser, ROT13, Shift cipher 
+
+
+     Intro to Muliplicative cipher 
+
+
+Lab -2: 
+     Importance of cryptography
+         Using Wireshark, investigate the transmission of dummy login credentials over HTTP and HTTPS. Analyze the captured traffic and explain the role of encryption in protecting sensitive information.
+        Credit: Mr. Anish and Mr. Srinivas — for their guidance and assistance during the lab session.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
