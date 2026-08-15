@@ -1,0 +1,11 @@
+Lab 2: 
+
+Importance of Cryptography: Using Wireshark, investigate the transmission of dummy login credentials over HTTP and HTTPS. 
+Analyze the captured network traffic, compare how the credentials are transmitted in both protocols, and explain the role of encryption in protecting sensitive information. 
+
+Note: Do the experiments in a controlled environment
+
+Deadline:
+19.08.2026
+
+There is no substitute for hard work. – Thomas Edison
