@@ -157,13 +157,33 @@ Day-6:
            - Encrypt, Decrypt using Monoalphabetic ciphers Ceaser, ROT13, Shift cipher 
 
 
-     Intro to Muliplicative cipher 
+     Intro to multiplicative cipher 
 
 
 Lab -2: 
      Importance of cryptography
          Using Wireshark, investigate the transmission of dummy login credentials over HTTP and HTTPS. Analyze the captured traffic and explain the role of encryption in protecting sensitive information.
         Credit: Mr. Anish and Mr. Srinivas — for their guidance and assistance during the lab session.
+
+Day-7: 
+     Recap
+     Atbash cipher 
+          -math representation 
+
+    Multiplicative cipher 
+          - Encryption 
+          - find the inverse of n mod 26 
+          - Decryption 
+          - Issues in the multiplicative cipher 
+                  - A always replaced by "A" 
+                  - Restricted key 
+                  - Limited key space 
+                  - Through patterns and frequency, can guess the plaintext 
+                  - Possibility of a known-plaintext attack 
+
+      Intro to Affine cipher 
+
+    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
