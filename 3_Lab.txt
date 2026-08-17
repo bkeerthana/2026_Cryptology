@@ -1,0 +1,222 @@
+Lab 3: 
+
+Cryptology Lab — Introduction to Python
+
+Python Basics and Debugging 
+
+1. Debug the following programs. Identify the type of error in each case.
+
+print("Welcome to Cryptology Lab)
+message = "Python Programming"
+print(mesage)
+num = input("Enter a number: ")
+result = num + 10
+print(result)
+
+2. Write Python statements to display the following exactly:
+
+Welcome to Cryptology Lab
+It's interesting to learn Python.
+Students, "Welcome to the Cryptology Lab".
+
+3. Read two numbers from the user and perform:
+
+Addition
+Subtraction
+Multiplication
+Division
+Integer division
+Remainder
+Exponentiation
+
+Display each result with an appropriate message.
+
+4. Read a floating-point number and display:
+
+its data type;
+its absolute value;
+the value rounded to two decimal places.
+Part B — Data Types and Collections (~25 min)
+
+5. Create variables containing examples of:
+
+int, float, complex, str, list, tuple, set, and dictionary.
+
+Use Python to display the value and data type of each variable.
+
+6. Demonstrate experimentally that:
+
+Strings are immutable, whereas lists are mutable.
+
+Include the Python statements you used and explain the observed result.
+
+7. Create a list containing five prime numbers. Perform the following:
+
+display the first three elements;
+display the last element;
+append another prime number;
+extend the list with two more prime numbers;
+display the total number of elements.
+
+Part C — String Operations 
+
+For Questions 8–12, use:
+
+message = "CRYPTOLOGY USING PYTHON"
+
+8. Display:
+
+length of the string;
+first five characters;
+last six characters;
+characters from positions 3 to 8;
+string in reverse order.
+
+9. Perform the following:
+
+convert to lowercase;
+convert back to uppercase;
+check whether "PYTHON" exists in the string;
+replace "PYTHON" with "PROGRAMMING".
+
+10. Remove the spaces from the string and display the resulting string.
+
+11. Using a loop, display every character and its corresponding Unicode/ASCII value using ord().
+
+Example:
+
+C -> 67
+R -> 82
+Y -> 89
+...
+
+12. Use chr() to convert the following values into characters:
+
+65, 67, 73, 80, 72, 69, 82
+
+Combine the resulting characters and identify the word.
+
+Part D — Text Processing for Cryptology 
+
+13. Plaintext preprocessing
+
+Read a message from the user and:
+
+remove leading/trailing spaces;
+convert it to uppercase;
+remove spaces between words.
+
+Example:
+
+Input :  meet me tomorrow
+Output: MEETMETOMORROW
+
+14. Character grouping
+
+Read a string and divide it into blocks of five characters.
+
+Example:
+
+Input: CRYPTOLOGYLAB
+
+
+Output:
+CRYPT
+OLOGY
+LAB
+
+15. Padding
+
+Modify Question 14 so that an incomplete final block is padded with X.
+
+Input: CRYPTOLOGYLAB
+
+
+Output:
+CRYPT
+OLOGY
+LABXX
+
+16. Character frequency
+
+For the following text:
+
+text = "CRYPTOLOGYISINTERESTING"
+
+write a program to calculate the frequency of each character.
+
+Then identify the most frequently occurring character.
+
+17. Percentage frequency
+
+Extend Question 16 to calculate:
+
+Percentage Frequency=
+Total Number of Characters/ Frequency of Character ×100
+
+Display the percentage rounded to two decimal places.
+
+
+
+Part E — Mathematical Foundations for Cryptology 
+
+18. Modular arithmetic
+
+Use Python to evaluate:
+
+29mod26
+55mod26
+78mod26
+−3mod26
+−29mod26
+
+Then write a program that accepts an integer and calculates the integer modulo 26.
+
+19. Alphabet representation
+
+Using
+
+A=0, B=1,…,Z=25
+
+write a program that accepts an uppercase character and displays its numerical representation.
+
+Example:
+
+Enter character: M
+M -> 12
+
+Also perform the reverse conversion:
+
+Enter number: 12
+12 -> M
+
+20. Prime numbers
+
+Write a program to:
+
+determine whether a given number is prime;
+display all prime numbers within a range specified by the user.
+
+21. GCD and coprimes
+
+Read two integers from the user. Find their GCD and determine whether they are coprime.
+
+Test your program with:
+
+15 and 26
+18 and 24
+17 and 26
+
+22. 
+
+Write a program to get the multiplicative inverse of an integer b. 
+
+
+Part F — Challenge / If Time Permits (~15 min)
+
+
+Bonus: 
+
+23. WAP in python to implement client and server communication.
+
+    Whether you succeed or not is irrelevant - there is no such thing. Making your known is the important thing   --- Art and Letters Georgia O'Keeffe.
