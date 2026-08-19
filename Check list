@@ -183,7 +183,23 @@ Day-7:
 
       Intro to Affine cipher 
 
-    
+Day-8: 
+     Recap
+     Intro to keyspace 
+
+     Affine cipher 
+        Eligibility criteria for 
+                           key1 - Multiplier 
+                           key2 - Add
+
+     c=k1.p + k2 
+     p=inverse k1(c-k2) 
+
+     Solving multiplicative inverse mod 26 
+
+     Encrypt and Decrypt using the Affine cipher 
+      
+        
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
