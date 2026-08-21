@@ -1,0 +1,32 @@
+1. Determine the multiplicative inverse modulo 26 for each of the following integers
+1,3,5,7,9,11,15,17,19,21,23,25 mod 26
+
+
+2. Choose any string of your choice to encrypt using the affine cipher with key values: multiplier  5 and Addictive 8
+
+3. Encrypt “HI” using the Affine Cipher with a = 11 and b = 5
+
+4. The ciphertext UCR was encrypted using the affine function 9x + 2 mod 26. Find the plaintext.
+
+5. Decrypt the cipher text using Affine cipher, KDYXJUWDEXZY using the key 3 (Multiplier) and 4
+
+6. Use k1=13(multiplier), k2-4 (Even though it is not a valid key - try to encrypt) 
+    Encrypt the string "input" and "alter" using the above key and find the what is the issue. 
+
+7.Find the Inverse matrix for the key [ 32
+                                        57 ] mod 26 
+
+8. Find the inverse of the following matrix whose entries are considered modulo 26:
+11 13 
+2   3
+
+9. Is the key valid? 
+             [2 14 
+              13 21] 
+
+10. Encrypt using  2×2 Hill cipher for the plaintext "SOLVED" using                                         
+          3  8 
+          7  11
+
+
+Deadline: 29.08.2026
