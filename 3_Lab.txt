@@ -220,3 +220,6 @@ Bonus:
 23. WAP in python to implement client and server communication.
 
     Whether you succeed or not is irrelevant - there is no such thing. Making your known is the important thing   --- Art and Letters Georgia O'Keeffe.
+
+Deadline: 
+26.08.2026
