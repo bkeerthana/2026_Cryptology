@@ -199,7 +199,20 @@ Day-8:
 
      Encrypt and Decrypt using the Affine cipher 
       
-        
+
+Day-9: 
+    Recap 
+    Keyspace 
+        - shift 
+        - multiplicative 
+        - affine 
+
+    Hill cipher 
+        - key eligibility 
+              - 2 conditions 
+        - Encryption 
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
