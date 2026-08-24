@@ -212,6 +212,16 @@ Day-9:
               - 2 conditions 
         - Encryption 
 
+Day-10: 
+    Hill cipher 
+        - Decryption 
+    kerckhoff's principle  
+        -a cryptographic system must remain secure even if everything about the system—except the secret key—is public knowledge. 
+    Takeaway from the principle 
+        - you should not rely on secrecy of design 
+        - the key holds the power; make sure the keyspace is larger 
+    Father of cryptography: Claude Shannon said in simple terms, "The enemy knows the system"
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
