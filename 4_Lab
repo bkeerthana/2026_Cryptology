@@ -37,7 +37,11 @@ Special characters
 
 9. Write a Python program to read cryptology.txt, convert all alphabetic characters to uppercase, and store the result in a new file called normalized.txt.
 
-10. Write a program to read the file and print only containing only alphabetic characters from the cryptology_no.txt file.
+10. Write a program to read the file and print only the lines containing only alphabetic characters from the cryptology_no.txt file.
+
+11. Write  a program to get the string from the user and reverse the string. 
+
+12. Improve the above code to reverse the string from the file. (simulate command: tac) 
 
 
 or 
