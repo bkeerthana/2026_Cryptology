@@ -41,7 +41,9 @@ Special characters
 
 11. Write  a program to get the string from the user and reverse the string. 
 
-12. Improve the above code to reverse the string from the file. (simulate command: tac) 
+12. Improve the above code to reverse the string from the file.
+
+13. Simulate the tac command in Python. 
 
 
 or 
