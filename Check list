@@ -223,6 +223,26 @@ Day-10:
     Father of cryptography: Claude Shannon said in simple terms, "The enemy knows the system"
 
 
+Day-11: 
+     Stream vs. Block cipher 
+         - processing 
+         - speed 
+         - use case 
+         - algorithms 
+         - secure
+         - implementation 
+         - complexity 
+         - error prone 
+       characteristics of a good cipher 
+         - confusion  - hide 
+         - diffusion  - spread 
+
+       Transposition cipher
+       Encryption 
+         - simple columnar transposition cipher 
+         - columnar with keyword
+         - double columnar 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
