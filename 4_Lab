@@ -1,0 +1,83 @@
+Level 1: 
+
+1. Write a Python program to accept five statements related to cryptology from the user and store them in a text file named cryptology.txt. Store each statement on a separate line.
+
+sample statements: 
+Cryptology is the study of secure communication.
+Cryptography focuses on protecting information.
+Cryptanalysis focuses on analyzing cryptographic systems.
+Plaintext represents the original message.
+Ciphertext represents the transformed message.
+Cryptanalysis is fun :) 
+I love Cryptanalysis ;)
+
+2. Write a Python program to read cryptology.txt and display its complete contents.
+
+3. Write a program to read cryptology.txt one line at a time and display each line along with its line number.
+
+4. write a program to store the output in a file called cryptology_no.txt
+
+5. Write a program to read cryptology.txt and determine:
+
+Number of lines
+Number of words
+Number of characters
+
+6. Read cryptology_no.txt and count the number of:
+
+Uppercase letters
+Lowercase letters
+Digits
+Spaces
+Special characters
+
+7. Write a program that accepts a word from the user and searches for that word in cryptology.txt.
+
+8. Read cryptology.txt and display only the lines containing the word message.
+
+9. Write a Python program to read cryptology.txt, convert all alphabetic characters to uppercase, and store the result in a new file called normalized.txt.
+
+10. Write a program to read the file and print only containing only alphabetic characters from the cryptology_no.txt file.
+
+
+or 
+Create a Python program that accepts five lines of text related to cryptology from the user and stores them in input.txt. Read the file and determine the number of lines, words, alphabetic characters, digits, spaces, and special characters. Convert the text to uppercase and store the processed contents in processed.txt. Finally, read and display the contents of processed.txt.
+
+
+Level 2: Regex
+
+security_data.txt:
+
+User alice logged in from 192.168.10.15
+User bob logged in from 10.10.5.21
+Contact admin@securitylab.com
+Failed login attempts: 5
+Session ID: SEC-2026-1045
+Hash: a94f3c2d8e71b05f
+Port 443 connection established
+User admin failed authentication
+
+1. Write a Python program to read security_data.txt and use a regular expression to identify and display all IPv4-address-like patterns present in the file.
+
+2. Write a Python program to identify and display all email-address-like patterns present in security_data.txt.
+
+3. Write a Python program to extract session IDs that follow the format SEC-YYYY-NNNN, where YYYY and NNNN represent four digits.
+
+4. Write a Python program to identify all hexadecimal sequences containing the characters 0–9, a–f, or A–F.
+
+5. Write a Python program to read security_data.txt and display all lines containing the word failed, irrespective of uppercase or lowercase.
+
+6. Write a Python program to identify and extract the port number from statements of the form Port 443 connection established.
+
+
+or 
+
+Write a Python program to read the contents of security_data.txt and use regular expressions to extract IP-address-like patterns, email addresses, session IDs, and hexadecimal sequences. Store the identified patterns in a new file named pattern_results.txt.
+
+
+"The bad news is time flies. The good news is you're the pilot." — Michael Altshuler
+
+"Productivity is never an accident. It's always the result of a commitment to excellence, intelligent planning, and focused effort." - Paul J. Meyer
+
+Posted on      : 27.08.2026     
+Deadline until : 09.09.2026
