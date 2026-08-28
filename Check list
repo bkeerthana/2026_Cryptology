@@ -243,6 +243,24 @@ Day-11:
          - columnar with keyword
          - double columnar 
 
+Day-12: 
+       Decryption 
+         - Simple Columnar transposition cipher 
+           logic : 
+                 c= count the length of the cipher 
+                 n= what is the size of the "n" 
+                 find the no. of row = c/n 
+
+         - Given Permutation table, find the inverse permutation table 
+
+         - Solved exercises 
+
+         - The above logic is used to decrypt the keyword-based columnar transposition 
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
