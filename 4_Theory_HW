@@ -1,16 +1,19 @@
-Decrypt hill cipher 
+Decrypt the following ciphertext using the Hill cipher.
 
 1. Cipher text : HLDTQIHJDXWQCMAG
  
     key = [ 3 2 
             5 7 ] 
-        
+    Use (A=0,B=1,....Z=25).
+    Find the plain text 
 
-2. Find the key inverse for 
+2. Consider the Hill cipher key matrix
+
 𝟐𝟒 𝟏𝟗
 𝟓 𝟏𝟒
 
 cipher text: RXAODY
+Find the plain text for the above cipher text 
 
 
 confusion vs. Diffusion 
@@ -63,3 +66,10 @@ Find the inverse permutation for
 
 Posted on:29.08.2026
 Deadline:12.09.2026
+
+“Your talent determines what you can do. Your motivation determines how much you’re willing to do. Your attitude determines how well you do it.” —Lou Holtz
+
+The mantra of any good security engineer is: "Security is a not a product, but a process." It's more than designing strong cryptography into a system; 
+it's designing the entire system such that all security measures, including cryptography, work together.
+Bruce Schneier
+
