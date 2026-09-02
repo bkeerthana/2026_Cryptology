@@ -258,6 +258,21 @@ Day-12:
          - The above logic is used to decrypt the keyword-based columnar transposition 
 
 
+Day-13 and 14 ( 2hours) 
+
+Rail fence 
+      - encryption 
+      - decryption 
+
+Rail fence depth -3 
+      - encryption 
+      - decryption 
+
+DES
+     permutation 
+     round function 
+           - expansion table 
+           - s-box 
 
 
 
