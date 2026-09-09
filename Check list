@@ -283,6 +283,26 @@ DES
 
 2DES 
 
+Day-16 
+DES - Decryption logic 
+2DES 
+3DES 
+   - with 2 keys 
+   - with 3 keys 
+
+Stream cipher 
+  - One Time Pad or vernam or Perfect cipher 
+  - Two conditions 
+            - make sure the length of key is equal to the length of the message 
+            - should not reuse the key 
+   Encryption
+   - plain text XOR key = ciphertext 
+
+Explore 
+   Decryption 
+    - cipher text XOR key = paintext 
+
+
 
 
 
