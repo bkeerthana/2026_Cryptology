@@ -303,8 +303,20 @@ Explore
     - cipher text XOR key = paintext 
 
 
+Day-17
+One time pad 
+    - Revisit Encryption and Decryption 
 
+Classification - Cryptanalysis 
+Goal of the attacker 
 
+Types of Crytanalysis 
+      - Cipher text only attack 
+      - Known plain text attack 
+      - chosen plain text attack 
+      - chosen cipher text attack
+
+ Based on above 4 models - did numericals 
 
 
 
