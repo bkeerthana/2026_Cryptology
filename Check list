@@ -335,6 +335,26 @@ Day-20
   Symmetric Vs Asymmetric Key 
   Pros and cons of Symmetric key cryptography 
 
+Day-21
+   AES - Introduction 
+   Difference between AES and DES 
+   AddRoundKey 
+   Round function 
+         subbytes 
+         shift rotate 
+         mix columns 
+         addround key ( until round nine) 
+
+Lab: 
+      AES Reviist 
+      AES Key Expansion 
+
+AES Reference: AES Excel sheet - wikipage 
+               AES animation -- under cryptool 
+               youtube video: Nesco academy 
+                              CJ Sathish 
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
