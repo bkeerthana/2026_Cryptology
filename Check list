@@ -365,6 +365,21 @@ AES Reference: AES Excel sheet - wikipage
 Day-25 
    RSA 
 
+Day-26
+   Revisit - RSA 
+   Attacks on RSA
+       - Brute force 
+       - Factorization 
+       - Chosen cipher text attack 
+       - Chosen plain text attack 
+       - Timing attack 
+   Possible mitigation 
+
+   Factorization attack - Pen and paper method 
+
+   Intro to DH Key Exchange
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
