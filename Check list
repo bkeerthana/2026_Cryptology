@@ -390,10 +390,16 @@ Day -30
 Hashing 
   - application 
   - properties 
+Day -31 
+  - Revisit Hashing and its properties 
+  - Intro to MD5 
+      -step1: Padding 
+      -Step2: Adding the length of the message 
+ - Numericals
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
-          Backdoor is a vulnerability or Threat 
+          A backdoor is a vulnerability or Threat 
 
 Vulnerability: A weakness or hole in your defense.
 Threat: The actual means or actor exploiting that weakness.
