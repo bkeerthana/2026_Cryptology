@@ -396,6 +396,13 @@ Day -31
       -step1: Padding 
       -Step2: Adding the length of the message 
  - Numericals
+Example: 
+• Original message length (L): 16 bits.
+• Target modulo constraint: The message plus the '1' bit plus '0's must be \(\equiv 448 \pmod{512}\), or \(L + 1 + k \equiv 448 \pmod{512}\).
+• Calculate k (number of zero bits):
+	• \(16 + 1 + k = 448 \pmod{512}\)
+	• \(17 + k = 448 \implies k = 448 - 17 = 431 \text{ zero bits}\).
+• Total bits before length field: \(16 \text{ (message)} + 1 \text{ ('1' bit)} + 431 \text{ ('0' bits)} = 448 \text{ bits}\)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
