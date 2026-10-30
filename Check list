@@ -403,6 +403,26 @@ Example:
 	• \(16 + 1 + k = 448 \pmod{512}\)
 	• \(17 + k = 448 \implies k = 448 - 17 = 431 \text{ zero bits}\).
 • Total bits before length field: \(16 \text{ (message)} + 1 \text{ ('1' bit)} + 431 \text{ ('0' bits)} = 448 \text{ bits}\)
+
+Day-32 
+
+Day-33 
+  Revisit MD5 
+  Round Functions 
+
+  Authentication Requirements 
+  Authentication Functions 
+     - what you know 
+     - what you have 
+     - what you are 
+  Threats and Attacks with respect to Authentication 
+
+  Methods to secure 
+  Non-Repudiation 
+  Digital Signature 
+      - Signing 
+      - Verification 
+     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clarification: 
